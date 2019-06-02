@@ -104,5 +104,5 @@ class LocationData {
 
 ## Feedback
 
-Please feel free to [give me any feedback](https://github.com/Lyokone/flutterlocation/issues)
+Please feel free to [give me any feedback](https://github.com/phamios/flutterlocation/issues)
 helping support this plugin !
